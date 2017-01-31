@@ -4,9 +4,9 @@ using Telligent.Evolution.Extensibility.Version1;
 
 namespace HandlingEvents
 {
-    public class UserEvents : IPlugin
+    public class EventsPlugin : IPlugin
     {
-        public string Name => "UserEvents Plugin";
+        public string Name => "Demo Event Handler Plugin";
 
         public string Description => "";
 
