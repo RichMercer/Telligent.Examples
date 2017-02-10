@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ConfigurablePlugins")]
+[assembly: AssemblyTitle("Telligent.Examples")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ConfigurablePlugins")]
+[assembly: AssemblyProduct("Telligent.Examples")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("d14df308-4526-40ec-abd7-f476bb7cb4e0")]
+[assembly: Guid("10bde59c-7587-4121-848e-cdf2fe985fe5")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -2,6 +2,7 @@
 using Telligent.Evolution.Extensibility.Api.Version1;
 using Telligent.Evolution.Extensibility.Version1;
 
+
 namespace HandlingEvents
 {
     public class EventsPlugin : IPlugin
@@ -13,7 +14,6 @@ namespace HandlingEvents
         public void Initialize()
         {
             Apis.Get<IUsers>().Events.BeforeCreate += EventsOnBeforeCreate;
-
             Apis.Get<IForumThreads>().Events.BeforeCreate += EventsOnBeforeCreate;
         }
 
